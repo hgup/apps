@@ -1,0 +1,345 @@
+﻿# For documentation, see https://www.sumatrapdfreader.org/settings/settings3-4-6.html
+FixedPageUI [
+	TextColor = #000000
+	BackgroundColor = #ffffff
+	SelectionColor = #f5fc0c
+	WindowMargin = 2 4 2 4
+	PageSpacing = 4 4
+	HideScrollbars = false
+]
+ComicBookUI [
+	WindowMargin = 0 0 0 0
+	PageSpacing = 4 4
+	CbxMangaMode = false
+]
+ChmUI [
+	UseFixedPageUI = false
+]
+
+SelectionHandlers [
+]
+ExternalViewers [
+]
+
+ZoomLevels = 8.33 12.5 18 25 33.33 50 66.67 75 100 125 150 200 300 400 600 800 1000 1200 1600 2000 2400 3200 4800 6400
+ZoomIncrement = 0
+
+PrinterDefaults [
+	PrintScale = shrink
+]
+ForwardSearch [
+	HighlightOffset = 0
+	HighlightWidth = 15
+	HighlightColor = #6581ff
+	HighlightPermanent = false
+]
+Annotations [
+	HighlightColor = #ffff00
+	UnderlineColor = #00ff00
+	TextIconColor = #ffff00
+	TextIconType = 
+	DefaultAuthor = 
+]
+
+RememberOpenedFiles = true
+RememberStatePerDocument = true
+RestoreSession = true
+UiLanguage = en
+EnableTeXEnhancements = false
+DefaultDisplayMode = automatic
+DefaultZoom = fit page
+Shortcuts [
+]
+EscToExit = false
+ReuseInstance = false
+ReloadModifiedDocuments = true
+
+MainWindowBackground = #80fff200
+FullPathInTitle = false
+ShowMenubar = true
+ShowToolbar = true
+ShowFavorites = false
+ShowToc = true
+TocDy = 0
+SidebarDx = 170
+ToolbarSize = 18
+TabWidth = 300
+TreeFontSize = 0
+SmoothScroll = false
+ShowStartPage = true
+CheckForUpdates = true
+WindowState = 2
+WindowPos = 243 -18 697 728
+UseTabs = true
+UseSysColors = false
+CustomScreenDPI = 0
+
+FileStates [
+	[
+		FilePath = F:\HURSH 211219\cs\assignments\UCSC302_SE2_2022 Narrative Viz\211219-UCSC302_SE2_2022 Narrative Viz.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 1
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 151.902
+		PageNo = 1
+		Zoom = fit width
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 243 -18 697 728
+		ShowToc = false
+		SidebarDx = 170
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = F:\HURSH 211219\cs\assignments\UCSC302_SE2_2022 Narrative Viz\Final Output.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 1
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 1116.75
+		PageNo = 2
+		Zoom = 150
+		Rotation = 0
+		WindowState = 2
+		WindowPos = 243 -18 697 728
+		ShowToc = false
+		SidebarDx = 170
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = F:\HURSH 211219\cs\assignments\UCSC302_SE2_2022 Narrative Viz\output\plot4.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 1
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = 66.67
+		Rotation = 0
+		WindowState = 1
+		WindowPos = 676 0 697 728
+		ShowToc = false
+		SidebarDx = 170
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = F:\HURSH 211219\cs\assignments\UCSC302_SE2_2022 Narrative Viz\output\radial_polygons_overlay.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 2
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 1
+		WindowPos = 676 0 697 728
+		ShowToc = false
+		SidebarDx = 170
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = F:\HURSH 211219\100 examples R.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 1
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 370.876
+		PageNo = 150
+		Zoom = 100
+		Rotation = 0
+		WindowState = 1
+		WindowPos = 676 0 697 728
+		ShowToc = true
+		SidebarDx = 170
+		DisplayR2L = false
+		ReparseIdx = 0
+		TocState = 48 62 70 79 100
+	]
+	[
+		FilePath = C:\Users\Guest1\Downloads\Life Of A Sai Student.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 1
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = fit width
+		Rotation = 0
+		WindowState = 1
+		WindowPos = 676 0 697 728
+		ShowToc = false
+		SidebarDx = 170
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = F:\HURSH 211219\cs\assignments\UCSC302_SE2_2022 Narrative Viz\output\plot1.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 4
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 1
+		WindowPos = 676 0 697 728
+		ShowToc = false
+		SidebarDx = 0
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = F:\HURSH 211219\cs\assignments\UCSC302_SE2_2022 Narrative Viz\output\plot3.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 1
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 1
+		WindowPos = 676 0 697 728
+		ShowToc = false
+		SidebarDx = 0
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = F:\HURSH 211219\cs\assignments\UCSC302_SE2_2022 Narrative Viz\output\plot2.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 1
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = 50
+		Rotation = 0
+		WindowState = 1
+		WindowPos = 676 0 697 728
+		ShowToc = false
+		SidebarDx = 0
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = F:\HURSH 211219\cs\assignments\UCSC302_SE2_2022 Drugs\output\final.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 2
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 1
+		WindowPos = 676 0 697 728
+		ShowToc = false
+		SidebarDx = 0
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = F:\HURSH 211219\cs\assignments\UCSC302_SE1_2022\pdf\views.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 1
+		WindowPos = 676 0 697 735
+		ShowToc = false
+		SidebarDx = 0
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = F:\HURSH 211219\cs\assignments\UCSC302_SE1_2022\Hursh Gupta - UCSC302P_SE1_2022.pdf
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 1
+		WindowPos = 676 0 697 735
+		ShowToc = false
+		SidebarDx = 0
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+	[
+		FilePath = F:\HURSH 211219\cs\assignments\UCSC302_SE2_2022 Narrative Viz\output\plot1.svg
+		Favorites [
+		]
+		IsPinned = false
+		IsMissing = false
+		OpenCount = 0
+		UseDefaultState = false
+		DisplayMode = continuous
+		ScrollPos = -1 -1
+		PageNo = 1
+		Zoom = fit page
+		Rotation = 0
+		WindowState = 1
+		WindowPos = 676 0 697 728
+		ShowToc = false
+		SidebarDx = 0
+		DisplayR2L = false
+		ReparseIdx = 0
+	]
+]
+SessionData [
+]
+TimeOfLastUpdateCheck = 0 0
+OpenCountWeek = 617
+
+# Settings below are not recognized by the current version
